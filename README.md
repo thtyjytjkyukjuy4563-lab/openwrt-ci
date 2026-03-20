@@ -6,7 +6,7 @@ https://github.com/immortalwrt/immortalwrt.git
 
 高通版：
 
-https://github.com/VIKINGYFY/immortalwrt.git
+https://github.com/thtyjytjkyukjuy4563-lab/immortalwrt
 
 # U-BOOT
 
@@ -23,6 +23,7 @@ https://github.com/chenxin527/uboot-ipq60xx-nor-build
 https://drive.wrt.moe/uboot/mediatek
 
 # 固件简要说明
+自用，我小白啥都不会，拷过来在源码里加了fg2000的dts。
 
 固件每天早上4点自动编译。
 
